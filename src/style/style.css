@@ -1,14 +1,22 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-.red{
+
+.red {
     width: 100%;
     height: 100px;
     background: red;
 }
-.color{
+
+.color {
     width: 100%;
-    height:100px;
+    height: 100px;
     background: greenyellow;
+}
+
+.yellow {
+    background: yellowgreen;
+    width: 100%;
+    height: 100px;
 }
